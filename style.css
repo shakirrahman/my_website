@@ -1,0 +1,12 @@
+body{
+    font-family: 'Ubuntu', sans-serif; 
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
